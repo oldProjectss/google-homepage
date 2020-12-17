@@ -1,0 +1,78 @@
+body,
+html {
+    background-color: #fff;
+    padding: 0;
+    margin: 0;
+}
+
+.apps {
+    max-width: 20px;
+    max-height: 20px;
+}
+
+#navbar {
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+#navbar ul {
+    list-style: none;
+    text-align: right;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+    font-weight: 600;
+}
+
+#navbar ul li {
+    display: inline;
+    margin-right: 5px;
+}
+
+#main {
+    text-align: center;
+    max-width: 100%;
+    margin: 200px 0;
+}
+
+#main input {
+    display: block;
+    padding: 10px 200px;
+    margin: 30px auto;
+    border: grey solid 1px;
+    border-radius: 20px;
+}
+
+#main button {
+    padding: 10px;
+    margin: auto 10px;
+    border: grey solid 1px;
+    border-radius: 20px;
+}
+
+#footer {
+    background-color: grey;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+
+#footer ul {
+    list-style: none;
+}
+
+#footer ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.footerOne {
+    text-align: right;
+}
+
+.footerTwo {
+    text-align: left;
+}
