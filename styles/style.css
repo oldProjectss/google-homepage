@@ -27,9 +27,17 @@ a {
     font-weight: 600;
 }
 
+.pic {
+    background-color: greenyellow;
+    padding: 10px;
+    font-weight: bolder;
+    border: solid 1px grey;
+    border-radius: 40px;
+}
+
 #navbar ul li {
     display: inline;
-    margin-right: 5px;
+    margin-right: 10px;
 }
 
 #main {
@@ -50,11 +58,12 @@ a {
     padding: 10px;
     margin: auto 10px;
     border: grey solid 1px;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 
 #footer {
-    background-color: grey;
+    border-top: solid 0.5px rgba(250, 150, 200, 0.4);
+    background-color: #f2f2f2;
     bottom: 0;
     position: fixed;
     width: 100%;
@@ -62,17 +71,11 @@ a {
 
 #footer ul {
     list-style: none;
+    display: flex;
+    justify-content: space-between;
 }
 
 #footer ul li {
-    display: inline;
-    margin-right: 10px;
-}
-
-.footerOne {
-    text-align: right;
-}
-
-.footerTwo {
-    text-align: left;
+    display: inline-block;
+    padding-right: 10px;
 }
