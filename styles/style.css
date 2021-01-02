@@ -53,6 +53,7 @@ a {
     margin: 30px auto;
     border: grey solid 1px;
     border-radius: 20px;
+    outline: none;
 }
 
 #main button {
@@ -60,6 +61,7 @@ a {
     margin: auto 10px;
     border: grey solid 1px;
     border-radius: 10px;
+    outline: none;
 }
 
 #footer {
