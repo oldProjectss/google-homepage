@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://ismailco.github.io/Microverse_Portfolio_bootstrap/)
+[Live Demo Link](https://ismailco.github.io/google-homepage/)
 
 ## Getting Started
 
