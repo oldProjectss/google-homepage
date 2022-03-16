@@ -7,7 +7,6 @@
 - HTML
 - CSS
 - FlexBox
-- Grid
 - Github Pages
 
 ## Live Demo
@@ -18,8 +17,8 @@
 
 To get a local copy up and running follow these simple example steps.
 
-- copy the repo URL
-- $ git clone (repo URL)
+- in terminal 
+``` $ git clone git@github.com:Ismailco/google-homepage.git ```
 
 ## Author
 
